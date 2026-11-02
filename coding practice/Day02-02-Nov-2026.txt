@@ -1,0 +1,13 @@
+Topics covered
+- Linux fundamentals
+- Command Line interface
+
+New thing learned
+-read - 4
+-write - 2
+-execute - 1
+
+Commands Practiced:
+-cp - copy
+-mv - move
+-mkdir - make directory

@@ -1,2 +1,5 @@
 30 mins - Git handling
+20 mins - figured out the git branch system
+10 mins - CLI/UI
 
+Commands like chmod, mv, umask, ls, grep.
