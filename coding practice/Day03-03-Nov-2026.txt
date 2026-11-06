@@ -1,0 +1,28 @@
+fle and directory commands
+ls -lh
+ls -lah
+ls -lahd
+ls -lahtr
+touch filename
+cat filename
+rm filename
+cp source destination 
+
+disk usage 
+du -h 
+du -sh
+df -h 
+df -i
+
+permissions 
+chmod
+umask
+
+comression
+gzip
+tar
+
+system
+whoami
+uname
+mount

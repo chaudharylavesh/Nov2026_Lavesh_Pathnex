@@ -1,0 +1,9 @@
+Day 3 
+liux commands practice
+-file and directory
+-disk usage
+-file permisson and ownership
+-system information
+-text searching using grep
+
+total time : 3 hours+(putty and ec2 misbehaved quite a few times)
