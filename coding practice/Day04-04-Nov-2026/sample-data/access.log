@@ -1,0 +1,4 @@
+10.0.0.1 GET /health 200 12ms
+10.0.0.2 GET /login 500 210ms
+10.0.0.3 POST /api 200 95ms
+10.0.0.4 GET /api 500 320ms
