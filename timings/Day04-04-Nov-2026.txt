@@ -1,0 +1,3 @@
+Day 04 - 04 November 2026
+Activity: Linux Shell Scripting
+Time spent: Approx 6–8 hours

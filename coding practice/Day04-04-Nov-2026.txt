@@ -1,0 +1,49 @@
+Day 04 shell scripting
+
+TOpics covered
+
+1, Bash fundamentals
+-shebang #!/bin/bash
+making scripts executable with chdmod +x(just adds executable permission)
+
+2, Variables and user input
+Declaring and using them
+Variable expansion using $(tell it to don't take space as a separator, it's a single name/string)
+
+3, I/O redirection
+errors and numbers for, stdin,stdout,stderr(0,1,2)
+directing output with > and >>
+using 2> for errors
+connecting commands with && and |
+
+4, Conditional statements
+-if, else,fi
+file checks- -f, -d, -r, -w, -x
+ 
+5, loops and functions
+for and while loop
+use of tail and top
+
+6 log processing
+using grep to find errors
+saving filtered output to a report
+
+7, text processing
+sed for sub and del mathing lines
+awk for extracting and filtering rec
+
+8 cron sched
+checking and managing cron service
+creating scheduled tasks with it
+
+9 log rotation
+trying log rotate
+rotation based on size,time
+compression of logs
+
+10 disk usage monitoring
+looking at disk usage with df 
+extracting with awk
+logging disk usage and monitoring warning messsages
+
+files and scripts are stored in Day04-04-Nov-2026 directory
