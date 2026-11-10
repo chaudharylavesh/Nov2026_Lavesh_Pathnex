@@ -1,0 +1,5 @@
+cloud deployment/service models/infra - 1.5 hours
+AWS org(SCPs,control tower,config etc)- 2.5 hours
+IAM and groups- 1-2 hours
+VPC- 2.5 hour
+
