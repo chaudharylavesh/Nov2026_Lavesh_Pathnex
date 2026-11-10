@@ -1,0 +1,14 @@
+Day 07 — AWS Learning
+Date: 07 November 2026
+
+Topics covered:
+- Data centre infrastructure, Regions and Availability Zones.
+- VPC networking: public/private subnets, reserved IP addresses, Internet Gateway and NAT Gateway.
+- Amazon S3: object storage, static website hosting, bucket naming, Block Public Access, versioning, delete markers, SSE-S3 and SSE-KMS.
+- Systems Manager: Session Manager, Patch Manager and Run Command.
+- Route 53: DNS, NS/SOA records, public/private hosted zones, Alias and CNAME records.
+- CloudTrail.
+- CloudWatch: metrics, logs, alarms and monitoring.
+
+
+
