@@ -1,0 +1,52 @@
+Day 05 - Git and Version Control
+Date: 05 November 2026
+
+Git Basics
+   - Version Control 
+   - Repo,commits, branches and merges
+   - Local and remote repos
+
+Repository Setup
+   - git init
+   - git clone
+   - git remote -v
+
+ Staging and Committing
+   - git status
+   - git add
+   - git commit
+   - Understanding the staging area
+   - git diff
+   - git diff --cached
+
+Branching
+   - git branch
+   - git switch
+   - git checkout/same as switch but old
+   - Creating and switching branches
+   - Branch deletion
+
+Remote Repository Sync
+   - git fetch
+   - git pull
+   - git push
+   - git push -u
+
+Git History
+   - git log
+   - git reflog
+
+Undoing Changes
+   - git restore
+   - git reset --soft
+   - git reset --mixed
+   - git reset --hard
+
+Merging and Conflict Resolution
+   - git merge
+   - Understanding merge conflicts
+   - Resolving conflicts manually
+
+Rebasing
+   - Understanding git rebase
+   - Merge vs rebase

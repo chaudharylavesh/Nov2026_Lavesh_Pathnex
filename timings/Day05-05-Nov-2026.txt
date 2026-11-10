@@ -1,0 +1,4 @@
+Day 05 
+Git and version control
+time - 7 hours
+rebase vs merge - 2 hours
