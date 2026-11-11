@@ -1,0 +1,3 @@
+topic - AWS
+Scaling, serverless and security.
+time took - 3.5 hours

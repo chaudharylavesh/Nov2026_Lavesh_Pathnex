@@ -1,0 +1,14 @@
+Day 08 — AWS Learning
+
+Topics covered:
+- Amazon EKS.
+- EC2 Auto Scaling: scale out, scale in, minimum, maximum and desired capacity.
+- CloudWatch 
+- AWS Lambda: serverless computing,.
+- AWS Shield: DDoS protection.
+- AWS WAF: web application firewall 
+- SQL Injection and Cross-Site Scripting (XSS)
+- Amazon GuardDuty: 
+- Amazon Inspector: vulnerability scanning and management.
+
+
