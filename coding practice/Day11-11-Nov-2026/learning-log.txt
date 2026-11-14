@@ -1,0 +1,13 @@
+Day 11 - Kubernetes
+
+Theory Covered:
+
+- Kubernetes fundamentals and orchestration
+- Kubernetes architecture
+- API Server, etcd, Scheduler and Controller Manager
+- Kubelet, Kube-proxy and container runtime
+- Pods, Deployments and ReplicaSets
+- Kubernetes namespaces
+- Kubernetes Services: ClusterIP, NodePort, LoadBalancer and ExternalName
+- Headless Services and DNS-based Pod discovery
+- Kubernetes deployment workflow
