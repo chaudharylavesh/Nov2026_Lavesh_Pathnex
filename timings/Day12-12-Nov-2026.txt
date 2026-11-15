@@ -1,0 +1,3 @@
+Timings
+theory and videos - 6.5 hours
+topics - Kubernetes, AWS CLI, Docker
