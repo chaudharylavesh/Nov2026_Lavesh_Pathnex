@@ -1,0 +1,15 @@
+Day 15 – Kubernetes Cluster Management and Networking
+
+Topics Covered:
+
+1. Kubernetes Environment Setup(Yaml and github links)
+2. Namespaces 
+3. Pod Disruption Budgets
+
+4. Node Maintenance
+
+5. Services and Service Discovery
+6. Traffic Routing
+
+7. Application Health Checks
+ 
