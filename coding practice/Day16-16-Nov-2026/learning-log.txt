@@ -1,0 +1,13 @@
+Topics Covered:
+
+1.Helm Basics
+
+2.Helm Charts and configs
+
+3Release Management
+
+4. Helm cli commands, reusable tempelates
+
+5. Pathnex Helm Chart
+
+6.Practiced Helm commands with some debuggin
