@@ -1,0 +1,22 @@
+Topics Covered:
+
+1. GitOps
+
+2. Argo CD Architecture
+
+
+3. Argo CD Installation and Access
+  
+4. Argo CD Applications
+
+
+5. Sync Policies and Lifecycle Management
+
+6. Application Health and Troubleshooting
+
+
+7. EKS Security and Networking
+
+
+8. Advanced Argo CD Features
+9. Experimenting with basic commands.
