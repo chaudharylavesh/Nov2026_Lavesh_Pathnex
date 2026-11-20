@@ -1,0 +1,17 @@
+Day 13 - Terraform, AWS EKS and Kubernetes Operations
+
+Topics Covered:
+
+Terraform Configuration for EKS
+VPC and Subnet Management
+EKS Node Group Troubleshooting
+Helm and Kubernetes Add-ons
+Amazon EBS CSI Driver
+CoreDNS
+Cluster Autoscaler
+Importing and Configuring Helm Releases
+Troubleshooting Pending Pods 
+Kubernetes Services: ClusterIP, NodePort and LoadBalancer
+ExternalDNS and Headless Services
+Deployments, ReplicaSets and Pods
+ Terraform Destroy and Infrastructure Cleanup

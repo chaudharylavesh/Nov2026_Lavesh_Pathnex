@@ -1,0 +1,16 @@
+Day 12 - Kubernetes Theory
+
+Topics Covered:
+
+1. Kubernetes Deployments and ReplicaSets
+2. Docker Hub and Container Images
+3. Kubernetes API Server
+4. AWS CLI and IAM Authentication
+5. Okta and Identity Federation
+6. EKS Kubeconfig and Cluster Access
+7. Kubernetes Control Plane and Worker Nodes
+8. Kubelet, Kube-proxy.
+9. DaemonSets and Desired vs Actual State
+10. Pod Metadata, Labels and Selectors
+11. Kubernetes Namespaces and RBAC
+12. Node Cordon, Drain and Uncordon

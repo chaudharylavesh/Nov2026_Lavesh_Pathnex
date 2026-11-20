@@ -1,0 +1,20 @@
+
+Day 09 — AWS Learning
+
+Topics covered:
+- AWS KMS key management.
+- AWS Systems Manager 
+- Amazon RDS and Aurora: relational databases, Serverless
+- DynamoDB: NoSQL database.
+- OLTP vs OLAP and Amazon Redshift data warehousing.
+- AWS DMS and CDC for database migration
+- AWS Batch for batch processing
+- AWS Glue for ETL
+- Amazon EFS vs EBS 
+- Amazon ECR
+- Amazon CloudFront
+- AWS Snowball 
+- AWS CodePipeline and CodeBuild: CI/CD.
+- Deployment strategies
+- AWS X-Ray
+

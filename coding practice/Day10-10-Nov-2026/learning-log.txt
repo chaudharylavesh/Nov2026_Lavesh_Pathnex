@@ -1,0 +1,15 @@
+Day 10 — Docker and Containerisation
+
+Topics covered:
+- Docker fundamentals and containerisation.
+- Virtual Machines vs Containers.
+- Docker architecture:
+- Docker images, containers and image layers.
+- CMD vs ENTRYPOINT.
+- Docker Hub,repositories
+- Docker Compose and multi-container applications.
+- Docker networking
+- Docker volumes
+- Docker Swarm vs Kubernetes.
+- Docker deployment on AWS EC2.(still confused a little on this)
+

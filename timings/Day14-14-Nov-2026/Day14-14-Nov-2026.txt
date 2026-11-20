@@ -1,0 +1,3 @@
+Resources used- Youtube, chatgpt, shorts.
+time taken - 7.5 hours
+Also wsl and minikube 
