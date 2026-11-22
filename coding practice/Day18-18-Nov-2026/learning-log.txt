@@ -1,0 +1,22 @@
+Day 18 – Terraform and Ansible
+
+Topics Covered:
+
+1. Infrastructure as Code fundamentals
+
+2. Terraform Providers and Resources
+
+3. Terraform Configs
+4. Core Terraform Commands
+5. Terraform State Management
+6, Terraform Modules
+7, Remote Backends like s3
+
+8. Terraform Lifecycle Management- CPIR
+9. Terraform Best Practices
+
+10. Ansible Fundamentals
+
+11, Terraform and Ansible Integration
+
+
