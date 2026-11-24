@@ -1,0 +1,16 @@
+Kubernetes Monitoring and Observability
+Monitoring vs Observability
+Metrics, Logs and Distributed Tracing
+GitOps and ArgoCD
+Desired State, Live State and Configuration Drift
+ArgoCD Synchronisation and Self-Healing
+Kubernetes Cluster Autoscaler
+EKS Managed Node Groups and Auto Scaling Groups
+IAM Roles, Policies and EKS Pod Identity
+New Relic Architecture and Kubernetes Integration
+Helm-based Monitoring Installation
+DaemonSets and Node-level Monitoring
+Alerting and Thresholds
+PagerDuty and Incident Management
+Kubernetes Incident Troubleshooting
+Pod Scheduling and Resource Constraints
