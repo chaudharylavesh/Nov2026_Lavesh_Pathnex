@@ -1,0 +1,17 @@
+Day 19 – Advanced Terraform
+
+Topics Covered:
+
+Terraform State Management
+
+State Drift and Import-Terraform drift detection,Configuration versus actual infrastructure,Refresh-only operations
+
+
+Lifecycle Management.
+
+Advanced Resource Management like count and for_each and Root, child and remote modules
+
+Provisioners and Resource Dependencies
+
+Security and Best Practices, Secure credential management
+and Terraform workflow and maintenance commands
