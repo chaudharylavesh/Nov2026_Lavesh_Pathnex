@@ -1,0 +1,15 @@
+Ansible Fundamentals
+Ansible architecture: control nodes and managed nodes
+Agentless configuration management and SSH connectivity
+Inventory management and host grouping
+Ansible ad-hoc commands
+Playbooks and YAML structure
+Ansible modules, tasks, handlers and roles
+Privilege escalation using become
+Gathering system facts
+Idempotency and task execution results
+Playbook execution, check mode and verbosity
+Troubleshooting SSH connectivity and Python compatibility
+Python virtual environments and Ansible installation
+Terraform and Ansible integration
+Terraform data sources and EC2 inventory configuration
