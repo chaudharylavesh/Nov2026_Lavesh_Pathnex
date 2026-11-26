@@ -1,0 +1,14 @@
+Apache Kafka Fundamentals and Event-Driven Architecture
+Kafka Brokers and Cluster Architecture
+Topics, Partitions and Message Ordering
+Producers and Consumers
+Consumer Groups and Partition Assignment
+Offsets and Consumer Lag
+Replication, Leaders, Followers and ISR
+ZooKeeper and KRaft Architecture
+Kafka Connect and Kafka Streams
+Kafka Cluster Deployment Architecture
+Terraform Infrastructure Provisioning
+Dynamic Inventory and Terraform-Ansible Integration
+Kafka Topic Management and Producer-Consumer Testing
+Broker Failure and Troubleshooting
