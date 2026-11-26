@@ -1,0 +1,14 @@
+CI/CD Fundamentals
+Continuous Integration, Continuous Delivery and Continuous Deployment
+GitLab CI/CD Architecture
+Pipelines, Stages, Jobs and Runners
+GitLab Shared and Custom Runners
+CI/CD Pipeline Design and Execution
+Terraform CI/CD
+Terraform Formatting, Validation, Planning and Applying
+Terraform State and Pipeline Security
+Kubernetes Deployments 
+Deployment Troubleshooting
+AWS IAM and OpenID Connect
+AWS STS and AssumeRoleWithWebIdentity
+Secure CI/CD Authentication and Authorisation
