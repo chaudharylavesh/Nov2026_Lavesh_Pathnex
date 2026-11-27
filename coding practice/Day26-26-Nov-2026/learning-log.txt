@@ -1,0 +1,17 @@
+SSL and TLS Fundamentals
+TLS 1.2 and TLS 1.3
+TLS Handshake 
+Symmetric and Asymmetric Encryption
+Public and Private Keys
+Certificate Authorities
+Self-Signed and CA-Signed Certificates
+CSR
+OpenSSL Key and Certificate Generation
+Certificate Types and Subject Alternative Names
+HTTP-to-HTTPS Redirection
+Certificate Validation and Rotation
+TLS Troubleshooting
+Kubernetes ConfigMaps and TLS Secrets
+Nginx Deployment with HTTPS in Kubernetes
+Certificate Mounting and Deployment Rollouts
+Kubernetes TLS Troubleshooting
