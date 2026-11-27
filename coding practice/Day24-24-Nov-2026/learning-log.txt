@@ -1,0 +1,18 @@
+ELK Stack Architecture and Centralised Logging
+Log Parsing and Structured JSON Logs
+Logstash Input, Filter and Output
+Grok, Date, Mutate and JSON Filters
+Filebeat Log Collection and Forwarding
+Elasticsearch Clusters, Nodes, Indices and Documents
+Elasticsearch Indexing and Search
+Primary Shards and Replica Shards
+Shard Allocation and Cluster Health
+Shard Sizing and High Availability
+Kibana Data Views and Discover
+Kibana Visualisations and Dashboards
+Index Lifecycle Management
+Rollover and Hot, Warm, Cold, Frozen and Delete Phases
+Index Templates and Data Streams
+Ansible Inventory and ELK Deployment
+SSH Configuration and Host-key Verification
+ELK Service Verification and Troubleshooting
